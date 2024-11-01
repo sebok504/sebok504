@@ -1,4 +1,8 @@
-## Hi there 👋
+# 🔥 Sebastian Buliński
+
+**`Unreal Engine Programmer (Developer)`**
+
+I'm an Unreal Engine Game Programmer and content creator.
 
 <!--
 **sebok504/sebok504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
